@@ -25,7 +25,7 @@ SECRET_KEY = 'dlf@*fm(ne(%@6$wiic-(65xvnr$o!ho($l_o%!&3s8c(m+68#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<tanya>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','TatjanaGerasimenko.pythonanywhere.com']
 
 
 # Application definition
